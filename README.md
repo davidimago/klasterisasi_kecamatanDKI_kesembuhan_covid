@@ -4,7 +4,7 @@
 Klasterisasi Kecamatan DKI Jakarta berdasarkan Tingkat Pertumbuhan Angka Kesembuhan COVID
 
 ## Rumusan Masalah
-Apakah tingkat pertumbuhan angka kesembuhan covid-19 di setiap kecamatan DKI Jakarta mempunyai pola tertentu sehingga membentuk kelompok-kelompok kecamatan
+Apakah tingkat pertumbuhan angka kesembuhan covid-19 di setiap kecamatan DKI Jakarta mempunyai pola tertentu sehingga membentuk kelompok-kelompok kecamatan?
 
 ## Batasan Masalah
 - Pemrograman : Bahasa R – RStudio
