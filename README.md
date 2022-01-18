@@ -9,4 +9,4 @@ Apakah tingkat pertumbuhan angka kesembuhan covid-19 di setiap kecamatan DKI Jak
 - Dataset : Jangka waktu 1 Januari 2021 – 8 April 2021 (98 file)
 - Output : Kelompok-kelompok kecamatan berdasarkan tingkat pertumbuhan angka kesembuhan
 
-You can read the report [here](https://github.com/davidimago/klasterisasi_kecamatanDKI_kesembuhan_covid/blob/5c6c485fd3666929cd91180d37f449ff43a4f058/Klasterisasi%20Kecamatan%20DKI%20Jakarta%20berdasarkan%20Tingkat%20Pertumbuhan%20Angka.pdf) file
+You can read the report [here](https://github.com/davidimago/klasterisasi_kecamatanDKI_kesembuhan_covid/blob/50588bb6ed8b674dfd8a3928eee6204be8579442/Klasterisasi%20Kecamatan%20DKI%20Jakarta%20berdasarkan%20Tingkat%20Pertumbuhan%20Angka.pdf)
